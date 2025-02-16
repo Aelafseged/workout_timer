@@ -1,16 +1,39 @@
 # workout_timer
 
-A new Flutter project.
+`workout_timer` is a Flutter application designed to help users manage their workout routines efficiently. The app allows users to set up custom workout intervals, rest periods, and track their progress over time.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create and save custom workout routines
+- Set timers for workout and rest intervals
+- Track workout history and progress
+- User-friendly interface with customizable settings
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started with `workout_timer`, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/workout_timer.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd workout_timer
+    ```
+3. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+4. Run the app:
+    ```bash
+    flutter run
+    ```
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
